@@ -1,0 +1,44 @@
+<svg viewBox="0 0 440 500" xmlns="http://www.w3.org/2000/svg">
+  <title>ZRAE — squid emblem</title>
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="32%" r="75%">
+      <stop offset="0%" stop-color="#161d27"/>
+      <stop offset="100%" stop-color="#0B0F14"/>
+    </radialGradient>
+    <linearGradient id="mantleGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD37A"/>
+      <stop offset="100%" stop-color="#F5B642"/>
+    </linearGradient>
+  </defs>
+
+  <!-- emblem backdrop -->
+  <circle cx="220" cy="205" r="185" fill="url(#bgGrad)" stroke="#F5B642" stroke-width="4"/>
+  <circle cx="220" cy="205" r="172" fill="none" stroke="#7A4E00" stroke-width="1.5" opacity="0.55"/>
+
+  <!-- tentacles (drawn first, so the mantle sits cleanly on top) -->
+  <g fill="none" stroke="#F5B642" stroke-linecap="round">
+    <path d="M 205 200 C 195 260, 200 320, 210 375" stroke-width="16"/>
+    <path d="M 235 200 C 245 260, 240 320, 230 375" stroke-width="16"/>
+    <path d="M 195 198 C 165 250, 160 300, 155 350" stroke-width="13"/>
+    <path d="M 245 198 C 275 250, 280 300, 285 350" stroke-width="13"/>
+    <path d="M 185 195 C 145 230, 125 270, 110 310" stroke-width="11"/>
+    <path d="M 255 195 C 295 230, 315 270, 330 310" stroke-width="11"/>
+    <path d="M 175 190 C 125 210, 90 235, 70 265" stroke-width="9"/>
+    <path d="M 265 190 C 315 210, 350 235, 370 265" stroke-width="9"/>
+  </g>
+
+  <!-- fins -->
+  <path d="M 155 130 L 118 108 L 150 168 Z" fill="url(#mantleGrad)"/>
+  <path d="M 285 130 L 322 108 L 290 168 Z" fill="url(#mantleGrad)"/>
+
+  <!-- mantle -->
+  <path d="M 220 60 C 260 60, 285 100, 285 145 C 285 185, 258 205, 220 205 C 182 205, 155 185, 155 145 C 155 100, 180 60, 220 60 Z" fill="url(#mantleGrad)"/>
+
+  <!-- eyes -->
+  <circle cx="198" cy="193" r="9" fill="#0B0F14" stroke="#F5B642" stroke-width="1.5"/>
+  <circle cx="242" cy="193" r="9" fill="#0B0F14" stroke="#F5B642" stroke-width="1.5"/>
+
+  <!-- wordmark -->
+  <text x="220" y="430" text-anchor="middle" font-family="'Courier New', monospace" font-weight="700" font-size="46" fill="#F5B642" letter-spacing="10">ZRAE</text>
+  <text x="220" y="460" text-anchor="middle" font-family="'Courier New', monospace" font-weight="500" font-size="13" fill="#9CA3AF" letter-spacing="3">SCIENCE × TECH × CURIOSITY</text>
+</svg>
