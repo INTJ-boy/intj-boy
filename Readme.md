@@ -14,7 +14,7 @@
 
 <br>
 
-### ☀️ THE SUN NEVER ASKS PERMISSION TO SHINE.
+### 🔬 We study what the naked eye cannot see, because the invisible often controls the visible. 
 
 <br>
 
@@ -36,7 +36,7 @@
 <img src="https://count.getloli.com/@INTJ-boy?theme=asoul&scale=1.2" alt="Anime visitor counter" />
 
 <br>
-<sub>🩷 Live profile visitors • anime-style counter</sub>
+<sub>🩷 Live profile visitors •</sub>
 
 <br><br>
 
@@ -86,7 +86,7 @@ OBSERVE → QUESTION → RESEARCH → DESIGN → BUILD → VALIDATE → IMPROVE
 | 🎓 | Academic path |
 |---|---|
 | 🏛️ **Institution** | Université des Sciences et de la Technologie Houari Boumediene - USTHB |
-| 🧬 **Program** | Postgraduate - Master 2, Microbiology & Quality Control |
+| 🧬 **Program** | Postgraduate - Master , Microbiology & Quality Control |
 | 📅 **Stage** | Final Master year |
 | 🗓️ **Expected completion** | 06 / 2027 |
 
@@ -357,7 +357,7 @@ A multilingual medical-analysis preparation guide focused on laboratory test pre
 
 <img src="https://img.shields.io/badge/🇩🇿%20Arabic-Mother%20Tongue-0D1117?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🇫🇷%20French-Courant-0D1117?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🇬🇧%20English-Courant-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🇬🇧%20English-Advanced-0D1117?style=for-the-badge" />
 
 </div>
 
@@ -399,21 +399,21 @@ A multilingual medical-analysis preparation guide focused on laboratory test pre
 
 <div align="center">
 
-<a href="https://github.com/INTJ-boy/MicroLabPro">
+<a href="https://intj-boy.github.io/MicroLabPro/">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=INTJ-boy&repo=MicroLabPro&theme=dark&hide_border=true&bg_color=0D1117&title_color=F5B642" />
 </a>
 
-<a href="https://github.com/INTJ-boy/MicroOdyssey">
+<a href="https://intj-boy.github.io/MicroOdyssey/">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=INTJ-boy&repo=MicroOdyssey&theme=dark&hide_border=true&bg_color=0D1117&title_color=F5B642" />
 </a>
 
 <br>
 
-<a href="https://github.com/INTJ-boy/MicroVerse">
+<a href="https://intj-boy.github.io/MicroVerse/">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=INTJ-boy&repo=MicroVerse&theme=dark&hide_border=true&bg_color=0D1117&title_color=F5B642" />
 </a>
 
-<a href="https://github.com/INTJ-boy/LabPrepDz">
+<a href="https://intj-boy.github.io/LabPrepDz/">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=INTJ-boy&repo=LabPrepDz&theme=dark&hide_border=true&bg_color=0D1117&title_color=F5B642" />
 </a>
 
