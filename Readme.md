@@ -22,8 +22,8 @@
   <img src="https://img.shields.io/badge/GitHub-INTJ--boy-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/zekraouirabahallaaeddine">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
 <a href="mailto:rabahallaa666@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -368,7 +368,7 @@ A multilingual medical-analysis preparation guide focused on laboratory test pre
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=INTJ-boy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F5B642&icon_color=F5B642&text_color=FFFFFF&rank_icon=github" height="185" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=INTJ-boy&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=F5B642&icon_color=F5B642&text_color=FFFFFF&rank_icon=github" height="185" alt="GitHub statistics" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INTJ-boy&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=F5B642&text_color=FFFFFF" height="185" alt="Top languages" />
 
@@ -378,11 +378,11 @@ A multilingual medical-analysis preparation guide focused on laboratory test pre
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=INTJ-boy&bg_color=0D1117&color=F5B642&line=F5B642&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=INTJ-boy&bg_color=0D1117&color=F5B642&line=F5B642&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=INTJ-boy&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=INTJ-boy&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
